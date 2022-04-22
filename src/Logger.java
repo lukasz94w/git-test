@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Logger {
+public class Logger {
+
+    public static String returnLog() {
+        return "Im logging...";
+    }
 }
