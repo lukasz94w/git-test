@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Dog {
+public class Dog {
+
+    public static void bark() {
+        System.out.println("Hau hau!");
+    }
 }
